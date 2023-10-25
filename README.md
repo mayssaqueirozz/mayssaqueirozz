@@ -1,11 +1,11 @@
 ### Olá, meu nome é Mayssa Queiroz👋
 Sou de São Gonçalo
 
-Sou desenvolverdora front-End
+Sou desenvolvedora Front-End
 
 Tenho 27 anos
 
-Estou cursando front-End no Vai na Web
+Estou cursando Front-End no Vai na Web
 
 [![card](https://github-readme-stats.vercel.app/api?username=mayssaqueirozz&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
